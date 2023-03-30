@@ -1,12 +1,16 @@
-###  Olá! Eu sou o Ezequiel César 🖐️
-
-![TheC-br GitHub stats](https://github-readme-stats.vercel.app/api?username=TheC-br&show_icons=true&theme=dracula&count_private=true)
+###  Olá! Eu sou o Ezequiel César 🖐️  
+![TheC-br GitHub stats](https://github-readme-stats.vercel.app/api?username=TheC-br&show_icons=true&theme=gruvbox&count_private=true)
+<img height="195em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=TheC-br&layout=compact&langs_count=16&theme=gruvbox"/>
 <div style="display: inline_block"><br>
+  <img align="center" alt="Cesar-J" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Cesar-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Cesar-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Cesar-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Cesar-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Cesar-pic" height="150" style="border-radius:50px;" /*src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+  <img align="center" alt="Cesar-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+  <img align="right" alt="Cesar-pic" height="150" style="border-radius:50px;" src="https://i.imgur.com/WYOcTrd.png">
+  
+          
 </div>
 
  ##
